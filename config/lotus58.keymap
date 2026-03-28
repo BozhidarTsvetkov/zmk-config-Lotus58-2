@@ -70,7 +70,7 @@
                                &none     &none     &none    &none   &kp SPACE  &none        &kp RET     &kp TAB 
             >;
 
-            sensor-bindings = <&msc SCRL_LEFT SCRL_RIGHT>;
+            sensor-bindings = <&inc_dec_kp PG_UP PG_DN &inc_dec_kp C_PREV C_NEXT>;
         };
 
 
