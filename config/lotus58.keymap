@@ -20,8 +20,8 @@
 */
 
 &mt {
-    tapping-term-ms = <750>;
-    flavor = "tap-unless-interrupted";
+    tapping-term-ms = <150>;
+    flavor = "tap-preferred";
 };
 
 / {
